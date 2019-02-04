@@ -1,6 +1,6 @@
 # Changlog
 
-## [Working]
+## 3.2.0
 
 - Updated dependencies
 - Working with node 8, 10

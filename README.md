@@ -1,5 +1,9 @@
 tilelive-bridge
 ---------------
+
+> **AerisWeather Node:**
+> We have published these latest changes under @aerisweather/tilelive-bridge for tagged versions
+
 Implements the tilelive API for generating mapnik vector tiles from traditional mapnik datasources.
 
 [![Build Status](https://secure.travis-ci.org/mapbox/tilelive-bridge.png)](http://travis-ci.org/mapbox/tilelive-bridge)
