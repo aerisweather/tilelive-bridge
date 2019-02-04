@@ -1,5 +1,10 @@
 # Changlog
 
+## [Working]
+
+- Updated dependencies
+- Working with node 8, 10
+
 ## 3.1.1
 
 - Update os.tmpDir to os.tmpdir to silence deprecation warnings from node.js v8.x
